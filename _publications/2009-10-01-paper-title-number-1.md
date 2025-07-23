@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Adaptive Heading Tracking Algorithm Based On Vehicle Dynamics Model"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conference
+permalink: /publication/2024-ccc-adaptive-heading
+excerpt: 'This paper proposes an enhanced pure pursuit algorithm integrating heading control and vehicle dynamics for precise trajectory tracking in mining trucks.'
+date: 2024-12-01
+venue: 'China Control Conference (CCC)'
+slidesurl: '/files/ccc2024_slides.pdf'
+paperurl: '/files/ccc2024_paper.pdf'
+bibtexurl: '/files/ccc2024.bib'
+citation: 'Yang, P., Sheng, Z., Qin, T., & Yang, K. (2024). &quot;Adaptive Heading Tracking Algorithm Based On Vehicle Dynamics Model.&quot; <i>China Control Conference</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
